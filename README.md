@@ -33,7 +33,7 @@ To get started with this repository:
 
 The repository is organized into the following directories:
 
-- `fundamental/`: Contains all the Dart fundamentals like loops, conditionals, variables, and more.
+- `fundamentals/`: Contains all the Dart fundamentals like loops, conditionals, variables, and more.
 - `examples/`: Includes small code snippets and examples to illustrate different features.
 - `projects/`: Features mini-projects that apply the concepts learned.
 
