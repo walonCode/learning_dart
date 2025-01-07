@@ -21,4 +21,18 @@ main() {
   } else {
     print('You choose yes');
   }
+
+  //in case you don't want to use if else or it get to complex
+  // in dart you can also use switch statements
+
+  var command = 'OPEN';
+
+  switch (command) {
+    case 'CLOSED':
+      print('four');
+    case 'OPEN':
+      print('five');
+    default:
+      print('one');
+  }
 }
