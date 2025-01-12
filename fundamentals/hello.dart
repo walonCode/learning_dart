@@ -2,4 +2,8 @@
 void main() {
   var name = 'walon';
   print(name);
+
+  var list = [];
+  list.add(45);
+  print(list);
 }
